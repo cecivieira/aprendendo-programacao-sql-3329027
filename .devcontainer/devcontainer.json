@@ -1,7 +1,7 @@
 {
   "extensions": [
     "GitHub.github-vscode-theme",
-    "alexcvzz.vscode-sqlite"
+    "alexcvzz.vscode-sqlite@0.6.1"
     // Additional Extensions Here
   ],
   "onCreateCommand" : "echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
